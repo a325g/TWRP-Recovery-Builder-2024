@@ -1,4 +1,4 @@
-name: TWRP Recovery Builder 2024 twrp 14.1
+name: TWRP Recovery Builder 2024 
 
 on:
   workflow_dispatch:
